@@ -1,0 +1,1 @@
+export const base_url = "https://coder-app-example.firebaseio.com/" //TODO: Replace with your own firebase url
